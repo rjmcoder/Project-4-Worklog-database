@@ -30,6 +30,7 @@ def initialize():
 
 def main_menu():
     """ Main menu of the program asking user to either add new entry, search existing ones or quit the program """
+    
     while True:
         clear()
         print("""
