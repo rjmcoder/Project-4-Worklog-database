@@ -5,6 +5,7 @@ Project Instructions
 To complete this project, follow the instructions below. If you get stuck, ask a question in the community.
 
  6 steps
+ 
 As a user of the script, I should be able to choose whether to add a new entry or lookup previous entries.
 
 As a user of the script, if I choose to enter a new work log, I should be able to provide my name, a task name, a number of minutes spent working on it, and any additional notes I want to record.
@@ -24,6 +25,7 @@ Extra Credit
 To get an "exceeds" rating, you can expand on the project in the following ways:
 
  6 steps
+ 
 Menu has a “quit” option to exit the program.
 
 Records can be deleted and edited, letting user change the date, task name, time spent, and/or notes.
